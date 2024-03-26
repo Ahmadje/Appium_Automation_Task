@@ -1,0 +1,1 @@
+{"uuid":"5b47886b-fef9-401e-91aa-7a2a85743daa","name":"Test_Suite_Emulator_Pixel_3","children":["6c01cf19-1657-4f13-8f3d-5e96bbbf8ee4"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711461623325,"stop":1711461632680}],"afters":[],"links":[],"start":1711461623306,"stop":1711461779949}

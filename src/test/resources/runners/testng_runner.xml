@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Suite_Emulator_Pixel_3">
+
+    <test name="Amazon App">
+        <classes>
+            <class name="tests.S01_FilterTests"/>
+        </classes>
+
+    </test>
+</suite>
